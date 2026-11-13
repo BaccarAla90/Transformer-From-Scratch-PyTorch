@@ -1,4 +1,4 @@
-# Custom PyTorch Transformer: Architecture & Benchmarking
+# Custom PyTorch Transformer Encoder: Architecture & Benchmarking
 
 This repository contains a from-scratch PyTorch implementation of a Transformer Encoder, trained on the IMDB Movie Review dataset for sentiment analysis. 
 
@@ -18,4 +18,4 @@ This performance gap demonstrates the immense value of pre-training on massive c
 *   `transformer.py`: The final Model class
 *   `notebook.ipynb`: Data loading, PyTorch training loop, and the side-by-side Hugging Face benchmark.
 
-* (Mini project for learning purposes)
+* (Small project for learning purposes)
