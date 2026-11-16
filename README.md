@@ -19,3 +19,9 @@ This performance gap demonstrates the immense value of pre-training on massive c
 *   `notebook.ipynb`: Data loading, PyTorch training loop, and the side-by-side Hugging Face benchmark.
 
 * (Small project for learning purposes)
+
+
+
+## References
+
+* Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). **Attention Is All You Need**. *Advances in Neural Information Processing Systems (NeurIPS)*, 30, 5998–6008. [arXiv:1706.03762](https://arxiv.org/abs/1706.03762)
